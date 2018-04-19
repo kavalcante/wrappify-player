@@ -1,7 +1,7 @@
 import Wrappify from 'wrappify';
 
 const spotify = new Wrappify({
-  token: 'BQBIduWNeS_8n4Y3L-GUTlLYiGhdw44GtM-e58Jj3XXpPkc65o4T61I1uXPI0-oYEkddHGVGKRbRrsuZyFmydCoA8WWKdACXG_ZpObOXl86OnUD-jLAbqTeJp-uMqW4xOJiLDyjQgAHfz8-Z',
+  token: 'BQBqWdS3DtHbJ8Oa0RFwTv69hvlI9q0H_CnNYs7D_meysYrZJn_D0PUtG8pnf-LL2wvQKIVQ29mRkPcTC8kWY00FrIGikUv8pUHzv2Mfc_-kkpaY_1nbwK8zQLKoGttF3qzotBznoEiUAAEF',
 });
 
 export default spotify;

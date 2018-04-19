@@ -30,17 +30,17 @@ const data2 = [
 const markup = `<div class="music" data-track-preview="https://p.scdn.co/mp3-preview/e3fffa13430292c5df046a768db90a03c61f643a?cid=774b29d4f13844c495f206cafdad9c86">
           <p class="music-number">1</p>
           <p class="music-title">Papercut</p>
-          <p class="music-duration">3:08</p>
+          <p class="music-duration">3:04</p>
         </div>`;
 
 const markup2 = `<div class="music" data-track-preview="https://p.scdn.co/mp3-preview/e3fffa13430292c5df046a768db90a03c61f643a?cid=774b29d4f13844c495f206cafdad9c86">
           <p class="music-number">1</p>
           <p class="music-title">Papercut</p>
-          <p class="music-duration">3:08</p>
+          <p class="music-duration">3:04</p>
         </div><div class="music" data-track-preview="https://p.scdn.co/mp3-preview/e3fffa13430292c5df046a768db90a03c61f643a?cid=774b29d4f13844c495f206cafdad9c86">
           <p class="music-number">1</p>
           <p class="music-title">Papercut</p>
-          <p class="music-duration">3:08</p>
+          <p class="music-duration">3:04</p>
         </div>`;
 
 describe('AlbumTracks', () => {
